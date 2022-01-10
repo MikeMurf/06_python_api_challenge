@@ -1,4 +1,5 @@
-# python_api_challenge
+# python_api_challenge the readme file is in the process of being updated
+
 Main Observations / Insights
 
 The saved figures from the plots have been incorporated into these observations insights for explanatory purposes and legibility.
