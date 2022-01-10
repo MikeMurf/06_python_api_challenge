@@ -90,7 +90,11 @@ The r-square is 0.3681140053502776
 ![image](https://user-images.githubusercontent.com/89948865/148723984-64421396-f756-48ec-b2d0-b818460d1e25.png) 
 
 
-* The hotel map has been added here to go with the humidity heat map.
+* The hotel map has been added here to go with the humidity heat map. 
+ 
+
+![image](https://user-images.githubusercontent.com/89948865/148829379-ee9de95e-d7d4-4b07-a1ce-094f2cf765bf.png) 
+
 
 * The map shows the 5 hotels that satisfied the ideal weather criteria 
 *     1   mar del plata AR -38.0023 -57.5575 NH Gran Hotel Provincial
