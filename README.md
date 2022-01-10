@@ -89,8 +89,8 @@ The r-square is 0.3681140053502776
 * The hotel map has been added here to go with the humidity heat map.
 
 *The map shows the 5 hotels that satisfied the ideal weather criteria 
-*     1 mar del plata AR -38.0023 -57.5575 NH Gran Hotel Provincial
-*     71cape town ZA -33.925818.4232 The Bay Hotel
+*     1   mar del plata AR -38.0023 -57.5575 NH Gran Hotel Provincial
+*     71  cape town ZA -33.925818.4232 The Bay Hotel
 *     108 lompoc US 34.6391-120.4579 Hilton Garden Inn Lompoc
 *     418 marana US 32.4367-111.2254
 *     543 julio de castilhos BR-29.2269-53.6817Pousada Diana
@@ -125,48 +125,48 @@ The r-square is 0.26688967231290295
 
 The r-square is 0.32407428548748696
 
-•	The linear regression plots Southern Hemisphere cities' humidity against their latitude.
-•	There does not appear to be any particular pattern to the plot of cloudiness and latitude.
-•	The r-square value of 0.32 rounded shows that there is relatively low degree of fit to the line of best fit for latitude and cloudiness.
+*	The linear regression plots Southern Hemisphere cities' humidity against their latitude.
+*	There does not appear to be any particular pattern to the plot of cloudiness and latitude.
+*	The r-square value of 0.32 rounded shows that there is relatively low degree of fit to the line of best fit for latitude and cloudiness.
  
-9.	Linear Regression - Northern Hemisphere cities' Latitude vs Wind Speed
+**9.	Linear Regression - Northern Hemisphere cities' Latitude vs Wind Speed**
 
 ![image](https://user-images.githubusercontent.com/89948865/148724535-54e1f035-06d2-4abe-8b97-7d1d7dbfb438.png)
 
 
 The r-square is 0.2064741086715493
 
-•	The linear regression plots Southern Hemisphere cities' wind speed against their latitude.
-•	There are some significant outliers between latitudes 30 and 60.
-•	These are possibly due to the prevailing westerlies or anti-trade winds which operate in these latitudes, and which fluctuate wildly.
-•	Further analysis needs to be done to prove or disprove this theory. This is beyond the scope of this assignment.
-•	The r-square value of 0.21 rounded shows that there is relatively low degree of fit to the line of best fit for latitude and wind speed.
+*	The linear regression plots Southern Hemisphere cities' wind speed against their latitude.
+*	There are some significant outliers between latitudes 30 and 60.
+*	These are possibly due to the prevailing westerlies or anti-trade winds which operate in these latitudes, and which fluctuate wildly.
+*	Further analysis needs to be done to prove or disprove this theory. This is beyond the scope of this assignment.
+*	The r-square value of 0.21 rounded shows that there is relatively low degree of fit to the line of best fit for latitude and wind speed.
 
-10.	Linear Regression - Southern Hemisphere cities' Wind Speed vs Latitude
+**10.	Linear Regression - Southern Hemisphere cities' Wind Speed vs Latitude**
 
 ![image](https://user-images.githubusercontent.com/89948865/148724588-da4e963d-fcfa-4026-a162-2d5df9fa4912.png)
 
 The r-square is -0.3666007229034961
 
-•	The linear regression plots Southern Hemisphere cities' humidity against their latitude.
-•	There does not appear to be any particular pattern to the plot of wind speed and latitude.
-•	 The r-square value of -0.37 shows that there is a low degree of fit to the line of best fit for latitude and wind speed.
+*	The linear regression plots Southern Hemisphere cities' humidity against their latitude.
+*	There does not appear to be any particular pattern to the plot of wind speed and latitude.
+*	 The r-square value of -0.37 shows that there is a low degree of fit to the line of best fit for latitude and wind speed.
 
 
-11.	Copyright
+**11.	Copyright**
 
-•	The citipy software was developed by Winston Chen and is used with his approval subject to the copyright conditions located at the following link: -
+*	The citipy software was developed by Winston Chen and is used with his approval subject to the copyright conditions located at the following link: -
 https://github.com/wingchen/citipy/blob/master/LICENSE.txt
 
-12.	References:
+**12.	References:**
 
-•	The following references have been used for writing up for this assignment.
+*	The following references have been used for this assignment.
 
-World Atlas
-https://www.worldatlas.com/articles/which-hemisphere-has-the-largest-area-covered-by-land.html
+*     World Atlas
+*     https://www.worldatlas.com/articles/which-hemisphere-has-the-largest-area-covered-by-land.html
 
-Sciencing
-https://sciencing.com/what-are-the-four-special-parallels-of-latitude-12517328.html
+*     Sciencing
+*     https://sciencing.com/what-are-the-four-special-parallels-of-latitude-12517328.html
 
 ______________________________________________________________________________________________________________________________________________________________
 
