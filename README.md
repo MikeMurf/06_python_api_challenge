@@ -62,11 +62,47 @@ The r-square is 0.3681140053502776
 
 ![image](https://user-images.githubusercontent.com/89948865/148723494-7ba248cb-cdc5-4ff7-8037-411e51d163a7.png)
 
-
-
 3.2)	Linear Regression - Northern Hemisphere cities' Humidity vs Latitude
 
 ![image](https://user-images.githubusercontent.com/89948865/148723564-76f3c4f7-acba-47dd-bfbc-39c7068b0c44.png)
+
+The r-square is -0.875522577935197
+
+3.3)	Linear Regression - Southern Hemisphere cities' Humidity vs Latitude
+
+![image](https://user-images.githubusercontent.com/89948865/148723914-70c7602d-284e-48b5-b466-4ea840937fa8.png)
+
+The r-square is 0.3681140053502776
+
+•	The linear regression plots Southern Hemisphere cities' humidity against their latitude.
+•	The regression shows that humidity is higher near the equator and lower further away from the equator.
+•	The r-square value of 0.37 rounded shows that there is relatively low degree of fit to the line of best fit for latitude and temperature.
+
+4.	Analysis of Google Maps Heat Map reveals the following trends: -
+
+•	The Google Heat Map from the Vacationpy notebook shows the areas with high humidity values. [Refer figure below]
+•	These are largely concentrated near coastlines and large bodies of water such as the Mediterranean Sea, the Black Sea, the Caspian Sea, Lake Baikal, and the Angara River complex in Russia.
+•	This is due to the air in these regions having more evaporated water in it than elsewhere.
+•	The UK Isles has a high concentration of humidity due to:
+o	 the effect of the prevailing Gulf Stream which emanates from the Gulf of Mexico and provides cooling conditions in summer and warming conditions in winter,
+o	Its position between the Atlantic Ocean which acts as a buffer and the Continent of Europe,
+•	This provides the UK with a relatively milder climate than its European neighbours and its largely spared from widely fluctuating climatic conditions prevailing in the continents of Europe and Asia. 
+ 
+![image](https://user-images.githubusercontent.com/89948865/148723984-64421396-f756-48ec-b2d0-b818460d1e25.png)
+
+•	The hotel map has been added here to go with the humidity heat map.
+
+•	The map shows the 5 hotels that satisfied the ideal weather criteria 
+o	1 mar del plata AR -38.0023 -57.5575 NH Gran Hotel Provincial
+o	71cape town ZA -33.925818.4232 The Bay Hotel
+o	108 lompoc US 34.6391-120.4579 Hilton Garden Inn Lompoc
+o	418 marana US 32.4367-111.2254
+o	543 julio de castilhos BR-29.2269-53.6817Pousada Diana
+
+Further Observations / Insights
+
+5.	Analysis of World-Wide Latitude vs Cloudiness
+
 
 
 
