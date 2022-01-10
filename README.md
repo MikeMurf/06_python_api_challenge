@@ -22,14 +22,10 @@ The saved figures from the plots have been incorporated into these observations 
 2)	The cities sample was taken in the Southern Hemisphere summer (Northern Hemisphere winter) hence: -
 * The temperate zone between the Tropic of Capricorn (-23 degrees) and the Equator (0 degrees) is experiencing hot summers conditions, 
 * The temperate zone between the Tropic of Cancer (23 degrees) and the Equator (0 degrees) is experiencing cool winter conditions.
-3)	The tropics of Capricorn and Cancer are the latitudes where the sun is closest to the earth in the respective summers which would account for the plateauing - 
-* of high temperatures at this level in the Southern Hemisphere.
-4)	The r squared value of 0.88 for the Northern Hemisphere shows a strong degree of fit to the line of best fit indicating a strong relationship - 
-* between latitude and temperature [Refer point 2.1) below].
-5)	Interestingly, the r-square value of 0.37 rounded shows that there is a relatively low degree of fit to the line of best fit for latitude and temperature - 
-* in the Southern Hemisphere [Refer point 2.2) below].
-6)	This may be explained by the sample size of 184 for the Southern Hemisphere versus the sample size of 378 for the Northern Hemisphere. 
-* Further statistical analysis beyond the scope of this assignment is required to explore this further. 
+3)	The tropics of Capricorn and Cancer are the latitudes where the sun is closest to the earth in the respective summers which would account for the plateauing of high temperatures at this level in the Southern Hemisphere.
+4)	The r squared value of 0.88 for the Northern Hemisphere shows a strong degree of fit to the line of best fit indicating a strong relationship between latitude and temperature [Refer point 2.1) below].
+5)	Interestingly, the r-square value of 0.37 rounded shows that there is a relatively low degree of fit to the line of best fit for latitude and temperature in the Southern Hemisphere [Refer point 2.2) below].
+6)	This may be explained by the sample size of 184 for the Southern Hemisphere versus the sample size of 378 for the Northern Hemisphere. Further statistical analysis beyond the scope of this assignment is required to explore this further. 
 
 2.1)	Linear Regression - Northern Hemisphere cities' Temperature vs Latitude
 
