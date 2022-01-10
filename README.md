@@ -83,7 +83,7 @@ The r-square is 0.3681140053502776
 *	This is due to the air in these regions having more evaporated water in it than elsewhere.
 *	The UK Isles has a high concentration of humidity due to:
 *     the effect of the prevailing Gulf Stream which emanates from the Gulf of Mexico and provides cooling conditions in summer and warming conditions in winter,
-*     its position between the Atlantic Ocean which acts as a buffer and the Continent of Europe,
+*     its position between the Atlantic Ocean which acts as a buffer and the Continent of Europe.
 * This provides the UK with a relatively milder climate than its European neighbours and it is largely spared from widely fluctuating climatic conditions prevailing in the continents of Europe and Asia. 
  
  
@@ -92,12 +92,12 @@ The r-square is 0.3681140053502776
 
 * The hotel map has been added here to go with the humidity heat map.
 
-*The map shows the 5 hotels that satisfied the ideal weather criteria 
+* The map shows the 5 hotels that satisfied the ideal weather criteria 
 *     1   mar del plata AR -38.0023 -57.5575 NH Gran Hotel Provincial
 *     71  cape town ZA -33.925818.4232 The Bay Hotel
 *     108 lompoc US 34.6391-120.4579 Hilton Garden Inn Lompoc
 *     418 marana US 32.4367-111.2254
-*     543 julio de castilhos BR-29.2269-53.6817Pousada Diana
+*     543 julio de castilhos BR-29.2269-53.6817Pousada Diana 
 
 
 ##Further Observations / Insights 
@@ -116,7 +116,7 @@ The r-square is 0.3681140053502776
 
 ![image](https://user-images.githubusercontent.com/89948865/148724259-a42648b9-b11c-49e9-8420-f7c23a0073ab.png)
 
-* There does not appear to be any particular correlation between world-wide latitude and wind speed.
+* There does not appear to be any particular correlation between world-wide latitude and wind speed. 
 
 
 **7.	Linear Regression - Northern Hemisphere cities' Latitude vs Cloudiness** 
@@ -128,7 +128,7 @@ The r-square is 0.26688967231290295
 
 *	The linear regression plots Northern Hemisphere cities' cloudiness (%) against their latitude.
 *	There does not appear to be any particular pattern to the plot of cloudiness and latitude.
-*	The r-square value of 0.27 rounded shows that there is relatively low degree of fit to the line of best fit for latitude and cloudiness.
+*	The r-square value of 0.27 rounded shows that there is relatively low degree of fit to the line of best fit for latitude and cloudiness. 
 
 
 **8.	Linear Regression - Southern Hemisphere cities' Latitude vs Cloudiness** 
@@ -140,8 +140,8 @@ The r-square is 0.32407428548748696
 
 *	The linear regression plots Southern Hemisphere cities' humidity against their latitude.
 *	There does not appear to be any particular pattern to the plot of cloudiness and latitude.
-*	The r-square value of 0.32 rounded shows that there is relatively low degree of fit to the line of best fit for latitude and cloudiness.
-
+*	The r-square value of 0.32 rounded shows that there is relatively low degree of fit to the line of best fit for latitude and cloudiness. 
+ 
 
 **9.	Linear Regression - Northern Hemisphere cities' Latitude vs Wind Speed** 
 
@@ -155,7 +155,7 @@ The r-square is 0.2064741086715493
 *	There are some significant outliers between latitudes 30 and 60.
 *	These are possibly due to the prevailing westerlies or anti-trade winds which operate in these latitudes, and which fluctuate wildly.
 *	Further analysis needs to be done to prove or disprove this theory. This is beyond the scope of this assignment.
-*	The r-square value of 0.21 rounded shows that there is relatively low degree of fit to the line of best fit for latitude and wind speed.
+*	The r-square value of 0.21 rounded shows that there is relatively low degree of fit to the line of best fit for latitude and wind speed. 
 
 
 **10.	Linear Regression - Southern Hemisphere cities' Wind Speed vs Latitude** 
@@ -167,20 +167,20 @@ The r-square is -0.3666007229034961
 
 *	The linear regression plots Southern Hemisphere cities' humidity against their latitude.
 *	There does not appear to be any particular pattern to the plot of wind speed and latitude.
-*	 The r-square value of -0.37 shows that there is a low degree of fit to the line of best fit for latitude and wind speed.
+*	 The r-square value of -0.37 shows that there is a low degree of fit to the line of best fit for latitude and wind speed. 
 
 
 **11.	Copyright** 
 
 
 *	The citipy software was developed by Winston Chen and is used with his approval subject to the copyright conditions located at the following link: -
-https://github.com/wingchen/citipy/blob/master/LICENSE.txt
+https://github.com/wingchen/citipy/blob/master/LICENSE.txt 
 
 
 **12.	References:** 
 
 
-*	The following references have been used for this assignment.
+*	The following references have been used for this assignment. 
 
 *     World Atlas
 *     https://www.worldatlas.com/articles/which-hemisphere-has-the-largest-area-covered-by-land.html
