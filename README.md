@@ -74,7 +74,9 @@ The r-square is 0.3681140053502776
 *	The regression shows that humidity is higher near the equator and lower further away from the equator.
 *	The r-square value of 0.37 rounded shows that there is relatively low degree of fit to the line of best fit for latitude and temperature.
 
+
 **4.	Analysis of Google Maps Heat Map reveals the following trends: -**
+
 
 *	The Google Heat Map from the Vacationpy notebook shows the areas with high humidity values. [Refer figure below]
 *	These are largely concentrated near coastlines and large bodies of water such as the Mediterranean Sea, the Black Sea, the Caspian Sea, Lake Baikal, and the Angara River complex in Russia.
@@ -95,7 +97,8 @@ The r-square is 0.3681140053502776
 *     418 marana US 32.4367-111.2254
 *     543 julio de castilhos BR-29.2269-53.6817Pousada Diana
 
-**Further Observations / Insights**
+**##Further Observations / Insights**
+
 
 **5.	Analysis of World-Wide Latitude vs Cloudiness**
 
@@ -103,11 +106,13 @@ The r-square is 0.3681140053502776
 
 * There does not appear to be any particular correlation between world-wide latitude and cloudiness.
 
+
 **6.	Analysis of World_Wide Latitude vs Wind Speed**
 
 ![image](https://user-images.githubusercontent.com/89948865/148724259-a42648b9-b11c-49e9-8420-f7c23a0073ab.png)
 
 * There does not appear to be any particular correlation between world-wide latitude and wind speed.
+
 
 **7.	Linear Regression - Northern Hemisphere cities' Latitude vs Cloudiness**
 
