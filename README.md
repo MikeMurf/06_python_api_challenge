@@ -86,7 +86,9 @@ The r-square is 0.3681140053502776
 *     its position between the Atlantic Ocean which acts as a buffer and the Continent of Europe,
 * This provides the UK with a relatively milder climate than its European neighbours and it is largely spared from widely fluctuating climatic conditions prevailing in the continents of Europe and Asia. 
  
+ 
 ![image](https://user-images.githubusercontent.com/89948865/148723984-64421396-f756-48ec-b2d0-b818460d1e25.png)
+
 
 * The hotel map has been added here to go with the humidity heat map.
 
@@ -96,6 +98,7 @@ The r-square is 0.3681140053502776
 *     108 lompoc US 34.6391-120.4579 Hilton Garden Inn Lompoc
 *     418 marana US 32.4367-111.2254
 *     543 julio de castilhos BR-29.2269-53.6817Pousada Diana
+
 
 **##Further Observations / Insights**
 
@@ -124,7 +127,9 @@ The r-square is 0.26688967231290295
 *	There does not appear to be any particular pattern to the plot of cloudiness and latitude.
 *	The r-square value of 0.27 rounded shows that there is relatively low degree of fit to the line of best fit for latitude and cloudiness.
 
+
 **8.	Linear Regression - Southern Hemisphere cities' Latitude vs Cloudiness**
+
 
 ![image](https://user-images.githubusercontent.com/89948865/148724393-67170147-553a-4a21-b6ad-9dffc46f01e8.png)
 
@@ -133,8 +138,10 @@ The r-square is 0.32407428548748696
 *	The linear regression plots Southern Hemisphere cities' humidity against their latitude.
 *	There does not appear to be any particular pattern to the plot of cloudiness and latitude.
 *	The r-square value of 0.32 rounded shows that there is relatively low degree of fit to the line of best fit for latitude and cloudiness.
- 
+
+
 **9.	Linear Regression - Northern Hemisphere cities' Latitude vs Wind Speed**
+
 
 ![image](https://user-images.githubusercontent.com/89948865/148724535-54e1f035-06d2-4abe-8b97-7d1d7dbfb438.png)
 
@@ -147,7 +154,9 @@ The r-square is 0.2064741086715493
 *	Further analysis needs to be done to prove or disprove this theory. This is beyond the scope of this assignment.
 *	The r-square value of 0.21 rounded shows that there is relatively low degree of fit to the line of best fit for latitude and wind speed.
 
+
 **10.	Linear Regression - Southern Hemisphere cities' Wind Speed vs Latitude**
+
 
 ![image](https://user-images.githubusercontent.com/89948865/148724588-da4e963d-fcfa-4026-a162-2d5df9fa4912.png)
 
@@ -160,10 +169,13 @@ The r-square is -0.3666007229034961
 
 **11.	Copyright**
 
+
 *	The citipy software was developed by Winston Chen and is used with his approval subject to the copyright conditions located at the following link: -
 https://github.com/wingchen/citipy/blob/master/LICENSE.txt
 
+
 **12.	References:**
+
 
 *	The following references have been used for this assignment.
 
