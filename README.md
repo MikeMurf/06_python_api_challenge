@@ -12,8 +12,7 @@ The saved figures from the plots have been incorporated into these observations 
 * •	68% of the earth’s land mass is in the Northern Hemisphere, and,
 * •	32% of the earth’s land mass is in the Southern Hemisphere.
 * •	Reference: https://www.worldatlas.com/articles/which-hemisphere-has-the-largest-area-covered-by-land.html
-* •	This confirms that the cities sampled are distributed relatively uniformly by latitude as the sampled cities conform almost exactly with the land masses of the 
-*     hemispheres.
+* •	This confirms that the cities sampled are distributed relatively uniformly by latitude as the sampled cities conform almost exactly with the land masses of the hemispheres.
 
 **2.	Analysis of World-Wide Latitude versus Temperature reveals the following trends: -**
 
