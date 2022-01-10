@@ -19,8 +19,7 @@ The saved figures from the plots have been incorporated into these observations 
 ![image](https://user-images.githubusercontent.com/89948865/148723293-6062318d-82e1-42fb-a69e-30a1f7374743.png)
 
 
-* 1)	Temperature tends to increase almost linearly as you move from the most northern latitudes towards the equator then plateau out once you reach 23 degrees 
-*    (the Tropic of Cancer). 
+* 1)	Temperature tends to increase almost linearly as you move from the most northern latitudes towards the equator then plateau out once you reach 23 degrees (the Tropic of Cancer). 
 * 2)	The cities sample was taken in the Southern Hemisphere summer (Northern Hemisphere winter) hence: -
 * * * The temperate zone between the Tropic of Capricorn (-23 degrees) and the Equator (0 degrees) is experiencing hot summers conditions, 
 * * * The temperate zone between the Tropic of Cancer (23 degrees) and the Equator (0 degrees) is experiencing cool winter conditions.
