@@ -27,7 +27,7 @@ The saved figures from the plots have been incorporated into these observations 
 5)	Interestingly, the r-square value of 0.37 rounded shows that there is a relatively low degree of fit to the line of best fit for latitude and temperature in the Southern Hemisphere [Refer point 2.2) below].
 6)	This may be explained by the sample size of 184 for the Southern Hemisphere versus the sample size of 378 for the Northern Hemisphere. Further statistical analysis beyond the scope of this assignment is required to explore this further. 
 
-**2.1)	Linear Regression - Northern Hemisphere cities' Temperature vs Latitude
+**2.1)	Linear Regression - Northern Hemisphere cities' Temperature vs Latitude**
 
 ![image](https://user-images.githubusercontent.com/89948865/148723349-19d6ec98-8a26-4933-8e62-9f04d9d66779.png)
 
@@ -37,7 +37,7 @@ The r-square is -0.875522577935197
 * The regression shows that temperatures are higher near the equator and lower further away from the equator.
 * The r-square value of -0.88 rounded shows that there is a strong degree of fit to the line of best fit for latitude and temperature.
 
-**2.2)	Linear Regression - Southern Hemisphere cities' Temperature vs Latitude
+**2.2)	Linear Regression - Southern Hemisphere cities' Temperature vs Latitude**
 
 ![image](https://user-images.githubusercontent.com/89948865/148723387-15ccb019-ada3-4b2d-a9bb-2ddab18d1e5a.png)
 
@@ -47,24 +47,24 @@ The r-square is 0.3681140053502776
 * The regression shows that temperatures are higher near the equator and lower further away from the equator.
 * The r-square value of 0.37 rounded shows that there is a relatively low degree of fit to the line of best fit for latitude and temperature in the Southern Hemisphere.
 
-**3.	Analysis of World-Wide Latitude versus Humidity reveals the following trends: -
+**3.	Analysis of World-Wide Latitude versus Humidity reveals the following trends: -**
 
 * There does not appear to be any particular correlation between latitude and humidity on a world-wide comparison [Refer point 3.1) below].
 * The r squared value of 0.88 for the Northern Hemisphere, however, shows a strong degree of fit to the line of best fit indicating a strong relationship between latitude and temperature [Refer point 3.2) below].
 * Interestingly, the r-square value of 0.37 rounded shows that there is a relatively low degree of fit to the line of best fit for latitude and temperature in the Southern Hemisphere [Refer point 3.3) below].
 * Again, this may be explained by the sample size of 184 for the Southern Hemisphere versus the sample size of 378 for the Northern Hemisphere. Further statistical analysis beyond the scope of this assignment is required to explore this further.
 
-**3.1)	World_Wide cities' Humidity vs Latitude
+**3.1)	World_Wide cities' Humidity vs Latitude**
 
 ![image](https://user-images.githubusercontent.com/89948865/148723494-7ba248cb-cdc5-4ff7-8037-411e51d163a7.png)
 
-**3.2)	Linear Regression - Northern Hemisphere cities' Humidity vs Latitude
+**3.2)	Linear Regression - Northern Hemisphere cities' Humidity vs Latitude**
 
 ![image](https://user-images.githubusercontent.com/89948865/148723564-76f3c4f7-acba-47dd-bfbc-39c7068b0c44.png)
 
 The r-square is -0.875522577935197
 
-**3.3)	Linear Regression - Southern Hemisphere cities' Humidity vs Latitude
+**3.3)	Linear Regression - Southern Hemisphere cities' Humidity vs Latitude**
 
 ![image](https://user-images.githubusercontent.com/89948865/148723914-70c7602d-284e-48b5-b466-4ea840937fa8.png)
 
@@ -74,7 +74,7 @@ The r-square is 0.3681140053502776
 *	The regression shows that humidity is higher near the equator and lower further away from the equator.
 *	The r-square value of 0.37 rounded shows that there is relatively low degree of fit to the line of best fit for latitude and temperature.
 
-**4.	Analysis of Google Maps Heat Map reveals the following trends: -
+**4.	Analysis of Google Maps Heat Map reveals the following trends: -**
 
 *	The Google Heat Map from the Vacationpy notebook shows the areas with high humidity values. [Refer figure below]
 *	These are largely concentrated near coastlines and large bodies of water such as the Mediterranean Sea, the Black Sea, the Caspian Sea, Lake Baikal, and the Angara River complex in Russia.
@@ -86,40 +86,40 @@ The r-square is 0.3681140053502776
  
 ![image](https://user-images.githubusercontent.com/89948865/148723984-64421396-f756-48ec-b2d0-b818460d1e25.png)
 
-•	The hotel map has been added here to go with the humidity heat map.
+* The hotel map has been added here to go with the humidity heat map.
 
-•	The map shows the 5 hotels that satisfied the ideal weather criteria 
-o	1 mar del plata AR -38.0023 -57.5575 NH Gran Hotel Provincial
-o	71cape town ZA -33.925818.4232 The Bay Hotel
-o	108 lompoc US 34.6391-120.4579 Hilton Garden Inn Lompoc
-o	418 marana US 32.4367-111.2254
-o	543 julio de castilhos BR-29.2269-53.6817Pousada Diana
+*The map shows the 5 hotels that satisfied the ideal weather criteria 
+*     1 mar del plata AR -38.0023 -57.5575 NH Gran Hotel Provincial
+*     71cape town ZA -33.925818.4232 The Bay Hotel
+*     108 lompoc US 34.6391-120.4579 Hilton Garden Inn Lompoc
+*     418 marana US 32.4367-111.2254
+*     543 julio de castilhos BR-29.2269-53.6817Pousada Diana
 
-Further Observations / Insights
+**Further Observations / Insights**
 
-5.	Analysis of World-Wide Latitude vs Cloudiness
+**5.	Analysis of World-Wide Latitude vs Cloudiness**
 
 ![image](https://user-images.githubusercontent.com/89948865/148724164-a6212ef9-ed11-4347-8de4-2ad99481eb6d.png)
 
-•	There does not appear to be any particular correlation between world-wide latitude and cloudiness.
+* There does not appear to be any particular correlation between world-wide latitude and cloudiness.
 
-6.	Analysis of World_Wide Latitude vs Wind Speed
+**6.	Analysis of World_Wide Latitude vs Wind Speed**
 
 ![image](https://user-images.githubusercontent.com/89948865/148724259-a42648b9-b11c-49e9-8420-f7c23a0073ab.png)
 
-•	There does not appear to be any particular correlation between world-wide latitude and wind speed.
+* There does not appear to be any particular correlation between world-wide latitude and wind speed.
 
-7.	Linear Regression - Northern Hemisphere cities' Latitude vs Cloudiness
+**7.	Linear Regression - Northern Hemisphere cities' Latitude vs Cloudiness**
 
 ![image](https://user-images.githubusercontent.com/89948865/148724337-e1cc42e3-808c-4f85-811a-8690c8eae417.png)
 
 The r-square is 0.26688967231290295
 
-•	The linear regression plots Northern Hemisphere cities' cloudiness (%) against their latitude.
-•	There does not appear to be any particular pattern to the plot of cloudiness and latitude.
-•	The r-square value of 0.27 rounded shows that there is relatively low degree of fit to the line of best fit for latitude and cloudiness.
+*	The linear regression plots Northern Hemisphere cities' cloudiness (%) against their latitude.
+*	There does not appear to be any particular pattern to the plot of cloudiness and latitude.
+*	The r-square value of 0.27 rounded shows that there is relatively low degree of fit to the line of best fit for latitude and cloudiness.
 
-8.	Linear Regression - Southern Hemisphere cities' Latitude vs Cloudiness
+**8.	Linear Regression - Southern Hemisphere cities' Latitude vs Cloudiness**
 
 ![image](https://user-images.githubusercontent.com/89948865/148724393-67170147-553a-4a21-b6ad-9dffc46f01e8.png)
 
