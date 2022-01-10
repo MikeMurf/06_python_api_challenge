@@ -27,7 +27,7 @@ The saved figures from the plots have been incorporated into these observations 
 5)	Interestingly, the r-square value of 0.37 rounded shows that there is a relatively low degree of fit to the line of best fit for latitude and temperature in the Southern Hemisphere [Refer point 2.2) below].
 6)	This may be explained by the sample size of 184 for the Southern Hemisphere versus the sample size of 378 for the Northern Hemisphere. Further statistical analysis beyond the scope of this assignment is required to explore this further. 
 
-2.1)	Linear Regression - Northern Hemisphere cities' Temperature vs Latitude
+**2.1)	Linear Regression - Northern Hemisphere cities' Temperature vs Latitude
 
 ![image](https://user-images.githubusercontent.com/89948865/148723349-19d6ec98-8a26-4933-8e62-9f04d9d66779.png)
 
@@ -37,7 +37,7 @@ The r-square is -0.875522577935197
 * The regression shows that temperatures are higher near the equator and lower further away from the equator.
 * The r-square value of -0.88 rounded shows that there is a strong degree of fit to the line of best fit for latitude and temperature.
 
-2.2)	Linear Regression - Southern Hemisphere cities' Temperature vs Latitude
+**2.2)	Linear Regression - Southern Hemisphere cities' Temperature vs Latitude
 
 ![image](https://user-images.githubusercontent.com/89948865/148723387-15ccb019-ada3-4b2d-a9bb-2ddab18d1e5a.png)
 
@@ -47,42 +47,42 @@ The r-square is 0.3681140053502776
 * The regression shows that temperatures are higher near the equator and lower further away from the equator.
 * The r-square value of 0.37 rounded shows that there is a relatively low degree of fit to the line of best fit for latitude and temperature in the Southern Hemisphere.
 
-3.	Analysis of World-Wide Latitude versus Humidity reveals the following trends: -
+**3.	Analysis of World-Wide Latitude versus Humidity reveals the following trends: -
 
 * There does not appear to be any particular correlation between latitude and humidity on a world-wide comparison [Refer point 3.1) below].
 * The r squared value of 0.88 for the Northern Hemisphere, however, shows a strong degree of fit to the line of best fit indicating a strong relationship between latitude and temperature [Refer point 3.2) below].
 * Interestingly, the r-square value of 0.37 rounded shows that there is a relatively low degree of fit to the line of best fit for latitude and temperature in the Southern Hemisphere [Refer point 3.3) below].
 * Again, this may be explained by the sample size of 184 for the Southern Hemisphere versus the sample size of 378 for the Northern Hemisphere. Further statistical analysis beyond the scope of this assignment is required to explore this further.
 
-3.1)	World_Wide cities' Humidity vs Latitude
+**3.1)	World_Wide cities' Humidity vs Latitude
 
 ![image](https://user-images.githubusercontent.com/89948865/148723494-7ba248cb-cdc5-4ff7-8037-411e51d163a7.png)
 
-3.2)	Linear Regression - Northern Hemisphere cities' Humidity vs Latitude
+**3.2)	Linear Regression - Northern Hemisphere cities' Humidity vs Latitude
 
 ![image](https://user-images.githubusercontent.com/89948865/148723564-76f3c4f7-acba-47dd-bfbc-39c7068b0c44.png)
 
 The r-square is -0.875522577935197
 
-3.3)	Linear Regression - Southern Hemisphere cities' Humidity vs Latitude
+**3.3)	Linear Regression - Southern Hemisphere cities' Humidity vs Latitude
 
 ![image](https://user-images.githubusercontent.com/89948865/148723914-70c7602d-284e-48b5-b466-4ea840937fa8.png)
 
 The r-square is 0.3681140053502776
 
-•	The linear regression plots Southern Hemisphere cities' humidity against their latitude.
-•	The regression shows that humidity is higher near the equator and lower further away from the equator.
-•	The r-square value of 0.37 rounded shows that there is relatively low degree of fit to the line of best fit for latitude and temperature.
+* The linear regression plots Southern Hemisphere cities' humidity against their latitude.
+*	The regression shows that humidity is higher near the equator and lower further away from the equator.
+*	The r-square value of 0.37 rounded shows that there is relatively low degree of fit to the line of best fit for latitude and temperature.
 
-4.	Analysis of Google Maps Heat Map reveals the following trends: -
+**4.	Analysis of Google Maps Heat Map reveals the following trends: -
 
-•	The Google Heat Map from the Vacationpy notebook shows the areas with high humidity values. [Refer figure below]
-•	These are largely concentrated near coastlines and large bodies of water such as the Mediterranean Sea, the Black Sea, the Caspian Sea, Lake Baikal, and the Angara River complex in Russia.
-•	This is due to the air in these regions having more evaporated water in it than elsewhere.
-•	The UK Isles has a high concentration of humidity due to:
-o	 the effect of the prevailing Gulf Stream which emanates from the Gulf of Mexico and provides cooling conditions in summer and warming conditions in winter,
-o	Its position between the Atlantic Ocean which acts as a buffer and the Continent of Europe,
-•	This provides the UK with a relatively milder climate than its European neighbours and its largely spared from widely fluctuating climatic conditions prevailing in the continents of Europe and Asia. 
+*	The Google Heat Map from the Vacationpy notebook shows the areas with high humidity values. [Refer figure below]
+*	These are largely concentrated near coastlines and large bodies of water such as the Mediterranean Sea, the Black Sea, the Caspian Sea, Lake Baikal, and the Angara River complex in Russia.
+*	This is due to the air in these regions having more evaporated water in it than elsewhere.
+*	The UK Isles has a high concentration of humidity due to:
+*     the effect of the prevailing Gulf Stream which emanates from the Gulf of Mexico and provides cooling conditions in summer and warming conditions in winter,
+*     its position between the Atlantic Ocean which acts as a buffer and the Continent of Europe,
+* This provides the UK with a relatively milder climate than its European neighbours and it is largely spared from widely fluctuating climatic conditions prevailing in the continents of Europe and Asia. 
  
 ![image](https://user-images.githubusercontent.com/89948865/148723984-64421396-f756-48ec-b2d0-b818460d1e25.png)
 
