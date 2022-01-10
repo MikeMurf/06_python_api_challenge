@@ -75,7 +75,7 @@ The r-square is 0.3681140053502776
 *	The r-square value of 0.37 rounded shows that there is relatively low degree of fit to the line of best fit for latitude and temperature.
 
 
-**4.	Analysis of Google Maps Heat Map reveals the following trends: -**
+**4.	Analysis of Google Maps Heat Map reveals the following trends: -** 
 
 
 *	The Google Heat Map from the Vacationpy notebook shows the areas with high humidity values. [Refer figure below]
@@ -87,7 +87,7 @@ The r-square is 0.3681140053502776
 * This provides the UK with a relatively milder climate than its European neighbours and it is largely spared from widely fluctuating climatic conditions prevailing in the continents of Europe and Asia. 
  
  
-![image](https://user-images.githubusercontent.com/89948865/148723984-64421396-f756-48ec-b2d0-b818460d1e25.png)
+![image](https://user-images.githubusercontent.com/89948865/148723984-64421396-f756-48ec-b2d0-b818460d1e25.png) 
 
 
 * The hotel map has been added here to go with the humidity heat map.
@@ -100,24 +100,27 @@ The r-square is 0.3681140053502776
 *     543 julio de castilhos BR-29.2269-53.6817Pousada Diana
 
 
-**##Further Observations / Insights**
+##Further Observations / Insights 
 
 
-**5.	Analysis of World-Wide Latitude vs Cloudiness**
+**5.	Analysis of World-Wide Latitude vs Cloudiness** 
+
 
 ![image](https://user-images.githubusercontent.com/89948865/148724164-a6212ef9-ed11-4347-8de4-2ad99481eb6d.png)
 
 * There does not appear to be any particular correlation between world-wide latitude and cloudiness.
 
 
-**6.	Analysis of World_Wide Latitude vs Wind Speed**
+**6.	Analysis of World_Wide Latitude vs Wind Speed** 
+
 
 ![image](https://user-images.githubusercontent.com/89948865/148724259-a42648b9-b11c-49e9-8420-f7c23a0073ab.png)
 
 * There does not appear to be any particular correlation between world-wide latitude and wind speed.
 
 
-**7.	Linear Regression - Northern Hemisphere cities' Latitude vs Cloudiness**
+**7.	Linear Regression - Northern Hemisphere cities' Latitude vs Cloudiness** 
+
 
 ![image](https://user-images.githubusercontent.com/89948865/148724337-e1cc42e3-808c-4f85-811a-8690c8eae417.png)
 
@@ -128,7 +131,7 @@ The r-square is 0.26688967231290295
 *	The r-square value of 0.27 rounded shows that there is relatively low degree of fit to the line of best fit for latitude and cloudiness.
 
 
-**8.	Linear Regression - Southern Hemisphere cities' Latitude vs Cloudiness**
+**8.	Linear Regression - Southern Hemisphere cities' Latitude vs Cloudiness** 
 
 
 ![image](https://user-images.githubusercontent.com/89948865/148724393-67170147-553a-4a21-b6ad-9dffc46f01e8.png)
@@ -140,7 +143,7 @@ The r-square is 0.32407428548748696
 *	The r-square value of 0.32 rounded shows that there is relatively low degree of fit to the line of best fit for latitude and cloudiness.
 
 
-**9.	Linear Regression - Northern Hemisphere cities' Latitude vs Wind Speed**
+**9.	Linear Regression - Northern Hemisphere cities' Latitude vs Wind Speed** 
 
 
 ![image](https://user-images.githubusercontent.com/89948865/148724535-54e1f035-06d2-4abe-8b97-7d1d7dbfb438.png)
@@ -155,7 +158,7 @@ The r-square is 0.2064741086715493
 *	The r-square value of 0.21 rounded shows that there is relatively low degree of fit to the line of best fit for latitude and wind speed.
 
 
-**10.	Linear Regression - Southern Hemisphere cities' Wind Speed vs Latitude**
+**10.	Linear Regression - Southern Hemisphere cities' Wind Speed vs Latitude** 
 
 
 ![image](https://user-images.githubusercontent.com/89948865/148724588-da4e963d-fcfa-4026-a162-2d5df9fa4912.png)
@@ -167,14 +170,14 @@ The r-square is -0.3666007229034961
 *	 The r-square value of -0.37 shows that there is a low degree of fit to the line of best fit for latitude and wind speed.
 
 
-**11.	Copyright**
+**11.	Copyright** 
 
 
 *	The citipy software was developed by Winston Chen and is used with his approval subject to the copyright conditions located at the following link: -
 https://github.com/wingchen/citipy/blob/master/LICENSE.txt
 
 
-**12.	References:**
+**12.	References:** 
 
 
 *	The following references have been used for this assignment.
