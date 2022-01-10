@@ -33,9 +33,9 @@ The saved figures from the plots have been incorporated into these observations 
 
 The r-square is -0.875522577935197
 
-•	The linear regression plots Northern Hemisphere cities' temperatures against their latitude.
-•	The regression shows that temperatures are higher near the equator and lower further away from the equator.
-•	The r-square value of -0.88 rounded shows that there is a strong degree of fit to the line of best fit for latitude and temperature.
+* The linear regression plots Northern Hemisphere cities' temperatures against their latitude.
+* The regression shows that temperatures are higher near the equator and lower further away from the equator.
+* The r-square value of -0.88 rounded shows that there is a strong degree of fit to the line of best fit for latitude and temperature.
 
 2.2)	Linear Regression - Southern Hemisphere cities' Temperature vs Latitude
 
@@ -43,16 +43,16 @@ The r-square is -0.875522577935197
 
 The r-square is 0.3681140053502776
 
-•	The linear regression plots Southern Hemisphere cities' temperatures against their latitude.
-•	The regression shows that temperatures are higher near the equator and lower further away from the equator.
-•	The r-square value of 0.37 rounded shows that there is a relatively low degree of fit to the line of best fit for latitude and temperature in the Southern Hemisphere.
+* The linear regression plots Southern Hemisphere cities' temperatures against their latitude.
+* The regression shows that temperatures are higher near the equator and lower further away from the equator.
+* The r-square value of 0.37 rounded shows that there is a relatively low degree of fit to the line of best fit for latitude and temperature in the Southern Hemisphere.
 
 3.	Analysis of World-Wide Latitude versus Humidity reveals the following trends: -
 
-•	There does not appear to be any particular correlation between latitude and humidity on a world-wide comparison [Refer point 3.1) below].
-•	The r squared value of 0.88 for the Northern Hemisphere, however, shows a strong degree of fit to the line of best fit indicating a strong relationship between latitude and temperature [Refer point 3.2) below].
-•	Interestingly, the r-square value of 0.37 rounded shows that there is a relatively low degree of fit to the line of best fit for latitude and temperature in the Southern Hemisphere [Refer point 3.3) below].
-•	Again, this may be explained by the sample size of 184 for the Southern Hemisphere versus the sample size of 378 for the Northern Hemisphere. Further statistical analysis beyond the scope of this assignment is required to explore this further.
+* There does not appear to be any particular correlation between latitude and humidity on a world-wide comparison [Refer point 3.1) below].
+* The r squared value of 0.88 for the Northern Hemisphere, however, shows a strong degree of fit to the line of best fit indicating a strong relationship between latitude and temperature [Refer point 3.2) below].
+* Interestingly, the r-square value of 0.37 rounded shows that there is a relatively low degree of fit to the line of best fit for latitude and temperature in the Southern Hemisphere [Refer point 3.3) below].
+* Again, this may be explained by the sample size of 184 for the Southern Hemisphere versus the sample size of 378 for the Northern Hemisphere. Further statistical analysis beyond the scope of this assignment is required to explore this further.
 
 3.1)	World_Wide cities' Humidity vs Latitude
 
