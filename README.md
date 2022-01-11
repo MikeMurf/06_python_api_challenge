@@ -1,5 +1,7 @@
 ### python_api_challenge
 
+## In order to run the Jupyter Notebook, the Openweather and Google Maps API keys must be provided. The api keys used in the project have not been published for security reasons.
+
 **Main Observations / Insights**
 
 The saved figures from the plots have been incorporated into these observations insights for explanatory purposes and legibility.
